@@ -1,7 +1,5 @@
 # flutter-covid-19
 
-# go_away_covid19
-
 A new Flutter application.
 
 ## Getting Started
